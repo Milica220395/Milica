@@ -21,6 +21,7 @@ public class Macka extends Zivotinja {
             System.out.println("Macka je jednobojna!");
         } else {
             System.out.println("Macka je sarena!");
+//            "mmm"
         }
     }
 }
